@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\Rogue1\Rogue1\obj\Debug\netcoreapp3.1\Rogue1.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Rogue1\Rogue1\obj\Debug\netcoreapp3.1\Rogue1.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Rogue1\Rogue1\obj\Debug\netcoreapp3.1\Rogue1.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Rogue1\Rogue1\obj\Debug\netcoreapp3.1\Rogue1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Rogue1\Rogue1\bin\Debug\netcoreapp3.1\Rogue1.exe
+C:\Users\Owner\source\repos\Rogue1\Rogue1\bin\Debug\netcoreapp3.1\Rogue1.deps.json
+C:\Users\Owner\source\repos\Rogue1\Rogue1\bin\Debug\netcoreapp3.1\Rogue1.runtimeconfig.json
+C:\Users\Owner\source\repos\Rogue1\Rogue1\bin\Debug\netcoreapp3.1\Rogue1.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Rogue1\Rogue1\bin\Debug\netcoreapp3.1\Rogue1.dll
+C:\Users\Owner\source\repos\Rogue1\Rogue1\bin\Debug\netcoreapp3.1\Rogue1.pdb
+C:\Users\Owner\source\repos\Rogue1\Rogue1\obj\Debug\netcoreapp3.1\Rogue1.dll
+C:\Users\Owner\source\repos\Rogue1\Rogue1\obj\Debug\netcoreapp3.1\Rogue1.pdb
+C:\Users\Owner\source\repos\Rogue1\Rogue1\obj\Debug\netcoreapp3.1\Rogue1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dkq+Y6KCg6aIeGfyMEjtA18X3TCAqN/VppUEXcmU6q+A9itVjHJ2u6ChWb9BzGyksDfsd/RvKtLdocls3p7vjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\Rogue1\\Rogue1\\Rogue1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
